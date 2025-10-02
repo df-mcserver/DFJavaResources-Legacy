@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/diorite"
+    },
+    "entries": [
+      {
+        "threshold": 10002724,
+        "model": {
+          "type": "model",
+          "model": "dfjr:block/storage_heart"
+        }
+      },
+      {
+        "threshold": 10002710,
+        "model": {
+          "type": "model",
+          "model": "dfjr:block/storage_unit"
+        }
+      }
+    ]
+  }
+}

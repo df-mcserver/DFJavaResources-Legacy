@@ -1,0 +1,256 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/skull.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/cold_sunglasses.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/sob.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/chair.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/sunglasses.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/smile.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/money_mouth.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/pray.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/3_hearts.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/smirk_cat.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/cold_face.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/speaking_head.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/fire.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/fish.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/moai.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/thumbs_up.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/salute.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/shrug.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/wompwomp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/joobi.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/joobi.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/wave.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/pensive.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/scream.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/smiling_imp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/neutral.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/slight_smile.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/flushed.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/astonished.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/vomiting.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/cat_scream.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/pleading.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/angry.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/rage.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/nerd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "dfjr:emojis/beginner.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/end_stone"
+    },
+    "entries": [
+      {
+        "threshold": 10002427,
+        "model": {
+          "type": "model",
+          "model": "dfjr:block/tanzanite_ore"
+        }
+      }
+    ]
+  }
+}
